@@ -2,6 +2,8 @@
 
 # Yulia Borodich
 
+![photo](photo.png)
+
 ## My Contact Info
 
 - **Telegram:** [@bor_yulia](https://t.me/bor_yulia)
