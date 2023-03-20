@@ -1,21 +1,8 @@
-<style>
-    .title-cv{
-        color: royalblue;
-    }
-
-    </style>
-
-## rsschool-cv {#identifier .title-cv}
-
----
+###### rsschool-cv
 
 # Yulia Borodich
 
----
-
 ## My Contact Info
-
----
 
 - **Telegram:** [@bor_yulia](https://t.me/bor_yulia)
 - **E-mail**: [borodichyulia18@gmail.com](mailto:borodichyulia18@gmail.com)
