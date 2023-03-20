@@ -29,3 +29,40 @@ I'm a passionate Frontend Developer with hands-on experience in React, Redux, Ty
 - Editors: VSCode, WebStorm
 
 ## Code examples
+
+```
+function solution(number){
+  if(number>=0){
+    let sum=0;
+    for(let i=0; i<number; i++){
+      i%3==0 || i%5==0 ? sum+=i : sum+=0;
+    }
+    return sum;
+  }
+  else{
+    return 0;
+  }
+}
+```
+
+## Education
+
+- Bachelor, Belarussian State University, Minsk
+  - Faculty of Sociocultural Communications, Applied Informatics
+- Academy Step
+  - Frontend development
+
+## Experience
+
+- LEGAT.BY - HTML Developer
+- iTechArt Group - Frontend Trainee
+
+## Languages
+
+- Russia
+- English
+
+  #### English
+
+- Underground Language Club: **Intermediate**
+- I am having lessons with a native speaker to improve my speaking and listening skills
