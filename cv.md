@@ -13,11 +13,13 @@
 
 ---
 
-## #My Contact Info
+## My Contact Info
 
-- Telegram: [@bor_yulia](https://t.me/bor_yulia)
-- E-mail: [bor](mailto:borodichyulia18@gmail.com)
-- LinkedIn
-- GitHub
-- Skype
-- Discord
+---
+
+- **Telegram:** [@bor_yulia](https://t.me/bor_yulia)
+- **E-mail**: [borodichyulia18@gmail.com](mailto:borodichyulia18@gmail.com)
+- **[LinkedIn](https://www.linkedin.com/in/yulia-borodich/)**
+- **[GitHub](https://github.com/borodichyulia)**
+- **[Skype](https://join.skype.com/invite/fFvyB5qbNSAl)**
+- **Discord:** Yulia Borodich (@borodichyulia)
